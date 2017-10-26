@@ -21,6 +21,8 @@ namespace WebApplication1.Account
             {
                 RegisterHyperLink.NavigateUrl += "?ReturnUrl=" + returnUrl;
             }
+
+            //Welcome to login
         }
 
         protected void LogIn(object sender, EventArgs e)
