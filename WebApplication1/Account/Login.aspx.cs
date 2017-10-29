@@ -24,8 +24,6 @@ namespace WebApplication1.Account
 
             //Welcome to login
             //Welcome to login2
-            //Welcome to login3 from user Azher
-
 
         }
 
